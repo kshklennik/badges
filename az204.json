@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://github.com/kshklennik/badges/blob/main/az204.json",
+  "id": "https://kshklennik.github.io/badges/az204.json",
   "recipient": {
     "type": "email",
     "hashed": false,
@@ -9,10 +9,10 @@
   },
   "badge": {
     "type": "BadgeClass",
-    "id": "https://github.com/kshklennik/badges/blob/main/az204.json",
+    "id": "https://kshklennik.github.io/badges/az204.json",
     "name": "Microsoft Certified: Azure Developer Associate (Wrapper Badge)",
     "description": "This OpenBadge v2 assertion wraps the Microsoft Azure Developer Associate certification and links to official Microsoft verification. Microsoft does not currently issue native OBv2 badges.",
-    "image": "https://github.com/kshklennik/badges/blob/main/az204.svg",
+    "image": "https://kshklennik.github.io/badges/az204.svg",
     "criteria": {
       "narrative": "Awarded for successfully passing the Microsoft Azure Developer Associate (AZ-204) certification exam."
     },

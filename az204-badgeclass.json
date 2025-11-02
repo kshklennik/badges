@@ -9,8 +9,8 @@
     "narrative": "Awarded after passing the Microsoft AZ-204 exam: Developing Solutions for Microsoft Azure."
   },
   "issuer": {
+    "@id": "https://kshklennik.github.io/badges/az204-microsoft-certifications.json",
     "type": "Profile",
-    "id": "urn:uuid:00000000-0000-0000-0000-000000000001",
     "name": "Microsoft Certifications",
     "url": "https://learn.microsoft.com/certifications"
   }

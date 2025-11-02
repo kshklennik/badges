@@ -1,0 +1,16 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://kshklennik.github.io/badges/az900.json",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "kshklennik@gmail.com"
+  },
+  "badge": "https://kshklennik.github.io/badges/az900-badgeclass.json",
+  "verification": {
+    "type": "HostedBadge",
+    "verificationLink": "https://learn.microsoft.com/api/credentials/share/en-us/kshklennik/5E2134E03E626FD0?sharingId=99D8784A57D1C0CC"
+  },
+  "issuedOn": "2025-05-20T00:00:00Z"
+}

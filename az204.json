@@ -5,7 +5,7 @@
   "recipient": {
     "type": "email",
     "hashed": false,
-    "identity": "YOUR_EMAIL"
+    "identity": "kshklennik@gmail.com"
   },
   "badge": "https://kshklennik.github.io/badges/az204-badgeclass.json",
   "verification": {

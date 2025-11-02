@@ -10,7 +10,7 @@
   },
   "issuer": {
     "type": "Profile",
-    "id": "https://www.microsoft.com",
+    "id": "https://kshklennik.github.io/badges/microsoft-certifications",
     "name": "Microsoft Certifications",
     "url": "https://learn.microsoft.com/certifications"
   }

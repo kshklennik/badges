@@ -1,10 +1,10 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "https://kshklennik.github.io/badges/az900-badgeclass.json",
+  "id": "https://kshklennik.github.io/badges/az900/az900-badgeclass.json",
   "name": "Microsoft Certified: Azure Fundamentals (Wrapper Badge)",
   "description": "Wrapper badge for the official Microsoft Azure Fundamentals certification. This wrapper exists only to enable Open Badge v2 compatibility and points to the official Microsoft verification page.",
-  "image": "https://kshklennik.github.io/badges/az900.svg",
+  "image": "https://kshklennik.github.io/badges/az900/az900.svg",
   "criteria": {
     "narrative": "Awarded after passing the Microsoft AZ-900 exam: Microsoft Azure Fundamentals."
   },

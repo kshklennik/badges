@@ -5,30 +5,13 @@
   "recipient": {
     "type": "email",
     "hashed": false,
-    "identity": "kshklennik@gmail.com"
+    "identity": "YOUR_EMAIL"
   },
-  "badge": {
-    "type": "BadgeClass",
-    "id": "https://kshklennik.github.io/badges/az204.json",
-    "name": "Microsoft Certified: Azure Developer Associate (Wrapper Badge)",
-    "description": "This OpenBadge v2 assertion wraps the Microsoft Azure Developer Associate certification and links to official Microsoft verification. Microsoft does not currently issue native OBv2 badges.",
-    "image": "https://kshklennik.github.io/badges/az204.svg",
-    "criteria": {
-      "narrative": "Awarded for successfully passing the Microsoft Azure Developer Associate (AZ-204) certification exam."
-    },
-    "issuer": {
-      "id": "https://www.microsoft.com",
-      "type": "Profile",
-      "name": "Microsoft Certifications",
-      "url": "https://learn.microsoft.com/certifications"
-    }
-  },
+  "badge": "https://kshklennik.github.io/badges/az204-badgeclass.json",
   "verification": {
     "type": "HostedBadge",
     "verificationLink": "https://learn.microsoft.com/api/credentials/share/en-us/kshklennik/B1350B909E4C587A?sharingId=99D8784A57D1C0CC"
   },
-  "issuedOn": "2025-10-31",
-  "expires": "2026-11-01",
-  "credentialId": "B1350B909E4C587A",
-  "credentialNumber": "F0E3E1-9555S7"
+  "issuedOn": "2025-10-31T00:00:00Z",
+  "expires": "2026-11-01T00:00:00Z"
 }

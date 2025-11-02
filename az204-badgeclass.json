@@ -1,0 +1,17 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://kshklennik.github.io/badges/az204-badgeclass.json",
+  "name": "Microsoft Certified: Azure Developer Associate (Wrapper Badge)",
+  "description": "Wrapper badge for the official Microsoft Azure Developer Associate certification. This wrapper exists only to enable Open Badge v2 compatibility and points to the official Microsoft verification page.",
+  "image": "https://kshklennik.github.io/badges/azure-badge.png",
+  "criteria": {
+    "narrative": "Awarded after passing the Microsoft AZ-204 exam: Developing Solutions for Microsoft Azure."
+  },
+  "issuer": {
+    "type": "Profile",
+    "id": "https://www.microsoft.com",
+    "name": "Microsoft Certifications",
+    "url": "https://learn.microsoft.com/certifications"
+  }
+}

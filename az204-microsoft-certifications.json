@@ -1,7 +1,0 @@
-{
-  "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://kshklennik.github.io/badges/microsoft-certifications.json",
-  "type": "Profile",
-  "name": "Microsoft Certifications",
-  "url": "https://learn.microsoft.com/certifications"
-}

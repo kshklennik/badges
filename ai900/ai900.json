@@ -1,13 +1,13 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://kshklennik.github.io/badges/ai900.json",
+  "id": "https://kshklennik.github.io/badges/ai900/ai900.json",
   "recipient": {
     "type": "email",
     "hashed": false,
     "identity": "kshklennik@gmail.com"
   },
-  "badge": "https://kshklennik.github.io/badges/ai900-badgeclass.json",
+  "badge": "https://kshklennik.github.io/badges/ai900/ai900-badgeclass.json",
   "verification": {
     "type": "HostedBadge",
     "verificationLink": "https://learn.microsoft.com/api/credentials/share/en-us/kshklennik/D46902FCC49BA68E?sharingId=99D8784A57D1C0CC"
